@@ -1,0 +1,142 @@
+{
+  "scores": [
+    {
+      "name": "eshwa",
+      "score": 21000,
+      "time_ms": 77480,
+      "created_at": "2025-11-17T15:32:01.704823717Z"
+    },
+    {
+      "name": "andreas",
+      "score": 1605,
+      "time_ms": 66116,
+      "created_at": "2025-11-19T16:19:27.052354Z"
+    },
+    {
+      "name": "Anonymous",
+      "score": 1400,
+      "time_ms": 68309,
+      "created_at": "2025-11-17T15:38:12.655932193Z"
+    },
+    {
+      "name": "Anonymous",
+      "score": 1200,
+      "time_ms": 66963,
+      "created_at": "2025-11-17T15:43:07.724452766Z"
+    },
+    {
+      "name": "andrew",
+      "score": 1070,
+      "time_ms": 73229,
+      "created_at": "2025-12-01T16:52:36.065066Z"
+    },
+    {
+      "name": "eeeee",
+      "score": 900,
+      "time_ms": 59566,
+      "created_at": "2025-11-17T16:07:43.491076491Z"
+    },
+    {
+      "name": "egggg",
+      "score": 765,
+      "time_ms": 53059,
+      "created_at": "2025-11-16T04:57:29.646557253Z"
+    },
+    {
+      "name": "Anonymous",
+      "score": 700,
+      "time_ms": 44161,
+      "created_at": "2025-11-17T15:40:44.175833355Z"
+    },
+    {
+      "name": "Anonymous",
+      "score": 650,
+      "time_ms": 85784,
+      "created_at": "2025-11-17T18:41:35.289129Z"
+    },
+    {
+      "name": "o mpampas sas",
+      "score": 615,
+      "time_ms": 34977,
+      "created_at": "2025-11-19T16:42:57.318898Z"
+    },
+    {
+      "name": "Anonymous",
+      "score": 560,
+      "time_ms": 58912,
+      "created_at": "2025-11-17T18:42:50.772112Z"
+    },
+    {
+      "name": "tso ke lo",
+      "score": 445,
+      "time_ms": 68023,
+      "created_at": "2025-11-17T04:00:15.470148684Z"
+    },
+    {
+      "name": "testing",
+      "score": 295,
+      "time_ms": 31949,
+      "created_at": "2025-11-16T18:09:46.539197685Z"
+    },
+    {
+      "name": "Anonymous",
+      "score": 230,
+      "time_ms": 182737,
+      "created_at": "2025-12-01T18:33:05.962742Z"
+    },
+    {
+      "name": "annnn",
+      "score": 220,
+      "time_ms": 31932,
+      "created_at": "2025-11-19T18:00:23.715892Z"
+    },
+    {
+      "name": "paok",
+      "score": 200,
+      "time_ms": 34889,
+      "created_at": "2025-11-29T11:22:15.11557886Z"
+    },
+    {
+      "name": "Anonymous",
+      "score": 190,
+      "time_ms": 34815,
+      "created_at": "2025-12-06T12:55:45.169077384Z"
+    },
+    {
+      "name": "test2",
+      "score": 165,
+      "time_ms": 17016,
+      "created_at": "2025-11-16T19:15:34.020607029Z"
+    },
+    {
+      "name": "andreasssss",
+      "score": 140,
+      "time_ms": 35914,
+      "created_at": "2025-12-08T19:17:30.959699Z"
+    },
+    {
+      "name": "Anonymous",
+      "score": 50,
+      "time_ms": 17142,
+      "created_at": "2025-12-06T12:55:00.414138822Z"
+    },
+    {
+      "name": "eeeee",
+      "score": 0,
+      "time_ms": 7669,
+      "created_at": "2025-11-14T21:01:03.046677046Z"
+    },
+    {
+      "name": "eeeee",
+      "score": 0,
+      "time_ms": 8244,
+      "created_at": "2025-11-14T21:09:55.924727043Z"
+    },
+    {
+      "name": "vvvvv",
+      "score": 0,
+      "time_ms": 16875,
+      "created_at": "2025-11-15T16:33:43.741514104Z"
+    }
+  ]
+}
